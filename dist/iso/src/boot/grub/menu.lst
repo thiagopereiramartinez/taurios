@@ -1,0 +1,3 @@
+default 0
+title=Sistema Operacional v1.0 x86
+kernel /boot/kernel
